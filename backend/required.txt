@@ -1,0 +1,14 @@
+express
+mongoose
+cors
+bcrypt
+dotenv
+jsonwebtoken
+express-validator
+morgan
+helmet
+compression
+nodemon --save-dev
+mongoose-sequence
+
+
